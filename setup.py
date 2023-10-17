@@ -1,4 +1,5 @@
 # willl be resp in creating ml applcation as a package we can deploy in pypy so that anyone can use it 
+# this link has more info : https://stackoverflow.com/questions/1471994/what-is-setup-py
 from setuptools import find_packages,setup
 
 
